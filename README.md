@@ -29,10 +29,10 @@ User → Internet → EC2 Instance → Apache Web Server → Website
 6. sudo nano index.html
 
 ## Screenshots :
-![Launched EC2 instance](launched.png)
+![Launched EC2 instance](launched_ec2.png)
 ![Configured security group ](config_securitygroup.png)
 ![Connected via SSH using key pair](ssh_connection_keypair.png)
-![Installed Apache](apache_install.png)
+![Installed Apache](apache_intall.png)
 ![Accessed website via public IP](Website.png)
 
 ## Learning Outcome :
