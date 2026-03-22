@@ -33,7 +33,7 @@ User → Internet → EC2 Instance → Apache Web Server → Website
 ![Configured security group ](config_securitygroup.png)
 ![Connected via SSH using key pair](ssh_connection_keypair.png)
 ![Installed Apache](apache_intall.png)
-![Accessed website via public IP](Website.png)
+![Accessed website via public IP](Website..png)
 
 ## Learning Outcome :
 1. Learning Outcome
